@@ -1,0 +1,11 @@
+# IDE & System
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Build Artifacts
+sanketai-backend/target/
+sanketai-frontend/dist/
+sanketai-frontend/node_modules/
+*.log
